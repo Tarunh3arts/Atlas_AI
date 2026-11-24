@@ -1,0 +1,34 @@
+.env
+.env.*
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+.idea/
+
+# Dataset
+Dataset/
+
+# Python virtual environment
+cv/
+.venv/
+venv/
+
+# Trained model weights
+*.pth
+*.pt
+*.h5
+*.onnx
+
+# Generated files
+outputs/
+uploads/
+
+outputs/
+
+api.txt
+uploads/
+outputs/
+artifacts/*.pth
+artifacts/*.pt
